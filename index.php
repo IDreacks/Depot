@@ -13,7 +13,14 @@ session_start()
 </head>
 
 <body>
+    <header>
+        <a href="">
+            <h1>Mon site</h1>
+        </a>
+        <nav>
 
+        </nav>
+    </header>
 </body>
 
 </html>
