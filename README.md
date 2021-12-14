@@ -12,3 +12,4 @@ Il ne te reste plus qu'a indiquer l'emplacement avec la commande `cd` et d'utili
 Connard , quand je serai un fantôme 
 je viendrai te planter un bouquet d'orties dans le cul
 Connard va.
+sale bateau .
